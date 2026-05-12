@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Jatre Namma Pride</string>
+    <string name="schedule">Schedule</string>
+    <string name="lost_found">Lost &amp; Found</string>
+    <string name="map">Map</string>
+    <string name="stories">Stories</string>
+    <string name="admin">Admin</string>
+    <string name="report_lost">Report Lost</string>
+    <string name="report_found">Report Found</string>
+    <string name="mark_resolved">Mark Resolved</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="all">All</string>
+    <string name="religious">Religious</string>
+    <string name="cultural">Cultural</string>
+    <string name="sports">Sports</string>
+    <string name="food">Food</string>
+    <string name="ongoing">Ongoing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="completed">Completed</string>
+    <string name="no_events">No events found</string>
+    <string name="no_items">No lost or found items</string>
+    <string name="add_event">Add Event</string>
+    <string name="edit_event">Edit Event</string>
+    <string name="delete_event">Delete Event</string>
+    <string name="event_title">Event Title</string>
+    <string name="event_description">Description</string>
+    <string name="event_location">Location</string>
+    <string name="description">Description</string>
+    <string name="contact_info">Contact Info</string>
+    <string name="last_seen">Last Seen Location</string>
+    <string name="parking">Parking</string>
+    <string name="first_aid">First Aid</string>
+    <string name="stalls">Stalls</string>
+</resources>
